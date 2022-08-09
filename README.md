@@ -292,31 +292,3 @@ Analysis
 Presentation Link
 https://docs.google.com/presentation/d/1SOBrhKYMKPc8b_CmATLQwIhHAUzWvkfaMHBu6TIS9mM/edit?usp=sharing
 
-About
-Finally bootcamp project
-
-Resources
- Readme
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Contributors 3
-@jlc06
-jlc06
-@mattbarton08
-mattbarton08 Matt Barton
-@Bernest1108
-Bernest1108
-Languages
-Jupyter Notebook
-100.0%
-Footer
