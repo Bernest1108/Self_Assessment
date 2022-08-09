@@ -33,7 +33,7 @@ Includes working code that scrapes the Pro-Football-Reference website, cleans th
 # Database_CSVs Folder
 Includes all data, in CSV format, that is currently in our AWS Database.
 
-# Models Folder
+# Models_Folder
 Includes our five attempts at using different variables to increase the accuracy of our model, as well as our final model with the metrics we feel carry the most weight in predicting future fantasy football outcomes.
 
 # Prediction_CSVs
